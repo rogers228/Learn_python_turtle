@@ -5,3 +5,4 @@
 1. draw_line 畫線
 2. draw_circle 畫圓
 3. draw_semicircle 畫半圓
+![image](https://github.com/rogers228/Learn_python_turtle/blob/main/png/semicircle.png)
