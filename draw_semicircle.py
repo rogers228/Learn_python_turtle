@@ -26,8 +26,6 @@ def draw_semicircle( # 畫半圓
         x, y:       起始點絕對座標
         lenght:     邊長度
         radius_ratio 半徑比例 0.1~1 (1等同半徑等同長度的一半)
-        height:     半圓高度
-        height:     半圓高度 與半徑的筆
         rotation:   畫圓方向 r順時針 l逆時針
         angle:      起始絕對角度
         pen_color:  筆顏色
