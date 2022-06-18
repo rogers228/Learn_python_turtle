@@ -5,6 +5,9 @@
 [draw_line 畫線](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_line.py)
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/line.png" alt="drawing" style="width:300px;"/>
 
+[goto_write 寫字](https://github.com/rogers228/Learn_python_turtle/blob/main/goto_write.py)
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/goto_write.png" alt="drawing" style="width:300px;"/>
+
 [draw_circle 畫圓](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_circle.py)
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/circle.png" alt="drawing" style="width:300px;"/>
 
