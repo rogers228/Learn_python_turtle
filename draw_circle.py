@@ -12,13 +12,26 @@ def myfirst():
     global myTurtle
     myTurtle = turtle.Turtle(); t = myTurtle
     t.width(2)
-    t.speed('fast') # fastest, fast, normal slow, slowest
+    t.speed('fastest') # fastest, fast, normal slow, slowest
 
 def myfinished():
     p = paper
     t = myTurtle
     t.hideturtle()
     p.exitonclick()
+
+def draw_circle(x, y, r, pen_color = 'black', fill_color = None):
+    t = myTurtle
+    t.pencolor(pen_color)
+    if fill_color:
+        t.fillcolor(fill_color)
+    t.up()
+    t.goto(x, y-r)
+    t.down()
+    t.setheading(0) # angle
+    t.begin_fill()
+    t.circle(r, 360)
+    t.end_fill()
 
 def draw_semicircle( # 畫半圓
     x, y, lenght, radius_ratio, rotation = 'r', angle = 0, pen_color = 'black', fill_color = None):
@@ -63,8 +76,7 @@ def draw_semicircle( # 畫半圓
 
 def test1():
     myfirst()
-    draw_semicircle(0, 0, 100, 1,'l', 10, 'black', 'yellow')
-    draw_semicircle(-3, 10, 100, 1,'r',10)
+    draw_circle(0, 0, 100, 'black', 'blue')
     myfinished()
 
 test1()
