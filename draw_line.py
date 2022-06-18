@@ -11,7 +11,7 @@ def myfirst():
 
     global myTurtle
     myTurtle = turtle.Turtle(); t = myTurtle
-    t.width(2)
+    t.width(5)
     t.speed('fastest') # fastest, fast, normal slow, slowest
 
 def myfinished():
@@ -30,7 +30,8 @@ def draw_line(x1, y1, x2, y2, pen_color = 'black'):
 
 def test1():
     myfirst()
-    draw_line(0, 0, 100, 50, 'red')
+    draw_line(-50, -100, 100, 50, 'red')
+    draw_line(-50, 80, 100, -80, 'red')
     myfinished()
 
 test1()
