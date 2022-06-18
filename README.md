@@ -2,6 +2,8 @@
 
 以function方式來作圖，方便取用。
 
+[Colors 顏色參考](https://trinket.io/docs/colors)
+
 [draw_line 畫線](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_line.py)
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/line.png" alt="drawing" style="width:300px;"/>
 
