@@ -6,4 +6,8 @@
 2. draw_circle 畫圓
 3. draw_semicircle 畫半圓
 
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/line.png" alt="drawing" style="width:300px;"/>
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/circle.png" alt="drawing" style="width:300px;"/>
+
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/semicircle.png" alt="drawing" style="width:300px;"/>
