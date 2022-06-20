@@ -40,6 +40,10 @@
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/waves.png" alt="drawing" style="width:300px;"/>
 
-[draw_drop 畫水滴](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_drop.py)
+[draw_drop 水滴](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_drop.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/drop.png" alt="drawing" style="width:300px;"/>
+
+[draw_flow 花朵](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_flower.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/flower.png" alt="drawing" style="width:300px;"/>
