@@ -41,7 +41,6 @@ def draw_star(x, y, r1, r2, angle = 0, pen_color = 'black', fill_color = None):
         t.goto(x, y)
         t.left(72)
 
-    t.left(36)
     lis_vertex2 = []
     t.goto(x, y)
     t.setheading(angle+36) # angle
