@@ -39,3 +39,7 @@
 [draw_waves 畫海浪](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_waves.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/waves.png" alt="drawing" style="width:300px;"/>
+
+[draw_drop 畫水滴](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_drop.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/drop.png" alt="drawing" style="width:300px;"/>
