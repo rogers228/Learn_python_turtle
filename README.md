@@ -24,6 +24,10 @@
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/semicircle.png" alt="drawing" style="width:300px;"/>
 
+[draw_oval 畫橢圓](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_oval.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/oval.png" alt="drawing" style="width:300px;"/>
+
 [draw_star 畫星星](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_star.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/star.PNG" alt="drawing" style="width:300px;"/>
