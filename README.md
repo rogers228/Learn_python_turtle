@@ -35,3 +35,7 @@
 [draw_star 畫星星](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_star.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/star.PNG" alt="drawing" style="width:300px;"/>
+
+[draw_waves 畫海浪](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_waves.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/waves.png" alt="drawing" style="width:300px;"/>
