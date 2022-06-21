@@ -19,19 +19,6 @@ def myfinished():
     t.hideturtle()
     p.exitonclick()
 
-def draw_waves(x, y, r, count, angle = 0, pen_color = 'black'):
-    t = myTurtle
-    t.pencolor(pen_color)
-    t.up()
-    t.goto(x, y)
-    t.setheading(angle+270) # angle
-    t.down()
-    for i in range(count):
-        ra = -1 if i % 2 else 1
-        t.circle(ra * r * 0.1 ,30)
-        t.circle(ra * r * 1   ,120)
-        t.circle(ra * r * 0.1 ,30)
-
 def draw_eddy(x, y, pitch, circletime, angle = 0, pen_color = 'black'):
     t = myTurtle
     t.pencolor(pen_color)
