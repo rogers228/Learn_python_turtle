@@ -47,3 +47,7 @@
 [draw_flow 花朵](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_flower.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/flower.png" alt="drawing" style="width:300px;"/>
+
+[draw_eddy 漩渦](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_eddy.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/eddy.png" alt="drawing" style="width:300px;"/>
