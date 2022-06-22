@@ -55,3 +55,8 @@
 [draw_talk 對話](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_talk.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/talk.png" alt="drawing" style="width:300px;"/>
+
+[draw_polygon 多邊形](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_polygon.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/polygon.png" alt="drawing" style="width:300px;"/>
+
