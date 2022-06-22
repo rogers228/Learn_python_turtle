@@ -51,3 +51,7 @@
 [draw_eddy 漩渦](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_eddy.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/eddy.png" alt="drawing" style="width:300px;"/>
+
+[draw_talk 對話](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_talk.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/talk.png" alt="drawing" style="width:300px;"/>
