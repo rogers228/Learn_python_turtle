@@ -10,7 +10,7 @@
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/lines.png" alt="drawing" style="width:300px;"/>
 
-[goto_write 寫字](https://github.com/rogers228/Learn_python_turtle/blob/main/goto_write.py)
+[write 寫字](https://github.com/rogers228/Learn_python_turtle/blob/main/goto_write.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/goto_write.png" alt="drawing" style="width:300px;"/>
 
