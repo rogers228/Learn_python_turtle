@@ -22,14 +22,14 @@ def myfinished():
 def draw_drop(x, y, r, angle = 0, pen_color = 'black', fill_color = None):
     t = myTurtle
     t.pencolor(pen_color)
-    if fill_color:
-        t.fillcolor(fill_color)
     t.up()
     t.goto(x, y)
     t.setheading(angle+90)
     t.forward(r*3.5)
     p1 = t.pos()
-    t.begin_fill()
+    if fill_color:
+        t.fillcolor(fill_color)
+        t.begin_fill()
     t.setheading(angle) # angle
     t.goto(x, y)
     t.down()

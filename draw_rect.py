@@ -23,12 +23,12 @@ def myfinished():
 def draw_rect(x, y, width, heighe, angle = 0, pen_color = 'black', fill_color = None):
     t = myTurtle
     t.pencolor(pen_color)
-    if fill_color:
-        t.fillcolor(fill_color)
     t.up()
     t.goto(x, y)
     t.setheading(angle) # angle
-    t.begin_fill()
+    if fill_color:
+        t.fillcolor(fill_color)
+        t.begin_fill()
     t.down()
     t.forward(width)
     t.left(90)
@@ -42,7 +42,7 @@ def draw_rect(x, y, width, heighe, angle = 0, pen_color = 'black', fill_color = 
 def test1():
     myfirst()
     draw_rect(-60,-60,260,40,30,'black', 'yellow green')
-    draw_rect(-60,0,160,40,30,'black', 'yellow green')
+    draw_rect(-60,0,160,40,30,'black')
     myfinished()
 
 test1()

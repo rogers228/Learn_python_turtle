@@ -27,11 +27,11 @@ def draw_polygon(x, y, quantity, lenght, angle = 0, pen_color = 'black', fill_co
     a = ((quantity-2)*180)/quantity
     t = myTurtle
     t.pencolor(pen_color)
-    if fill_color:
-        t.fillcolor(fill_color)
     t.up()
     t.goto(x, y)
-    t.begin_fill()
+    if fill_color:
+        t.fillcolor(fill_color)
+        t.begin_fill()
     t.down()
     t.setheading(angle)
     for i in range(quantity):
@@ -46,7 +46,7 @@ def test1():
     draw_polygon(50,50,5,40,0,'black', 'yellow')
     draw_polygon(80,-50,6,35,30,'black', 'blue')
     draw_polygon(-180,-10,7,30,0,'black', 'orange')
-    draw_polygon(0,-120,8,25,0,'black', 'magenta')
+    draw_polygon(0,-120,8,25,0,'black')
     myfinished()
 
 test1()

@@ -23,13 +23,13 @@ def myfinished():
 def draw_circle(x, y, r, pen_color = 'black', fill_color = None):
     t = myTurtle
     t.pencolor(pen_color)
-    if fill_color:
-        t.fillcolor(fill_color)
     t.up()
     t.goto(x, y-r)
     t.down()
     t.setheading(0) # angle
-    t.begin_fill()
+    if fill_color:
+        t.fillcolor(fill_color)
+        t.begin_fill()
     t.circle(r, 360)
     t.end_fill()
 

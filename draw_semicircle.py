@@ -43,13 +43,13 @@ def draw_semicircle( # 畫半圓
 
     t = myTurtle
     t.pencolor(pen_color)
-    if fill_color:
-        t.fillcolor(fill_color)
     t.up()
     t.goto(x, y)
     t.down()
     t.setheading(angle) # angle
-    t.begin_fill()
+    if fill_color:
+        t.fillcolor(fill_color)
+        t.begin_fill()
     t.forward(lenght)
     if rotation == 'l': # l逆時針
         t.right(90 + angle_g)

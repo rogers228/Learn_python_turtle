@@ -23,12 +23,12 @@ def myfinished():
 def draw_oval(x, y, r, angle = 0, pen_color = 'black', fill_color = None):
     t = myTurtle
     t.pencolor(pen_color)
-    if fill_color:
-        t.fillcolor(fill_color)
     t.up()
     t.goto(x, y)
     t.setheading(angle) # angle
-    t.begin_fill()
+    if fill_color:
+        t.fillcolor(fill_color)
+        t.begin_fill()
     t.down()
     for i in range(2):
         print(i)

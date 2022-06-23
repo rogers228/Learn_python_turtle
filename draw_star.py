@@ -50,11 +50,10 @@ def draw_star(x, y, r1, r2, angle = 0, pen_color = 'black', fill_color = None):
         t.goto(x, y)
         t.left(72)
 
+    t.goto(lis_vertex1[0])
     if fill_color:
         t.fillcolor(fill_color)
-
-    t.goto(lis_vertex1[0])
-    t.begin_fill()
+        t.begin_fill()
     t.down()
     for i in range(5):
         t.goto(lis_vertex1[i])
@@ -66,7 +65,7 @@ def test1():
     myfirst()
     draw_star(0, -20, 20, 40, 15, 'black', 'yellow')
     draw_star(50, 70, 12, 20, 30, 'black', 'orange')
-    draw_star(-100, 150, 10, 28, 45, 'black', 'dark orchid')
+    draw_star(-100, 150, 10, 28, 45, 'black')
     myfinished()
 
 test1()
