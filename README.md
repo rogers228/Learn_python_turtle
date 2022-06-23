@@ -58,3 +58,7 @@
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/polygon.png" alt="drawing" style="width:300px;"/>
 
+[arc 圓弧](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_arc.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/arc.png" alt="drawing" style="width:300px;"/>
+
