@@ -7,7 +7,6 @@ def myfirst():
     global paper
     paper = turtle.Screen()
     paper.setup(500, 400)
-
     global myTurtle
     myTurtle = turtle.Turtle(); t = myTurtle
     t.width(2)

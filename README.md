@@ -10,6 +10,10 @@
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/lines.png" alt="drawing" style="width:300px;"/>
 
+[dotted 虛線](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_dotted.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/dotted.png" alt="drawing" style="width:300px;"/>
+
 [write 寫字](https://github.com/rogers228/Learn_python_turtle/blob/main/goto_write.py)
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/goto_write.png" alt="drawing" style="width:300px;"/>
