@@ -66,3 +66,6 @@
 
 <img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/arc.png" alt="drawing" style="width:300px;"/>
 
+[arrow 箭頭](https://github.com/rogers228/Learn_python_turtle/blob/main/draw_arrow.py)
+
+<img src="https://github.com/rogers228/Learn_python_turtle/blob/main/png/arrow.png" alt="drawing" style="width:300px;"/>
